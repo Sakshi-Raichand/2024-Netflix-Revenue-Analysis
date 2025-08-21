@@ -17,7 +17,7 @@ It highlights **key trends, data-driven insights, and strategic takeaways** that
   * **EMEA** → Largest subscriber base but under-monetized
   * **LATAM & APAC** → Lower ARPU, “scale-first, monetize-later” strategy
     
-* **Operating Margins:** Rose to **30% in Q3 2024**, then dropped to **22% in Q4** — showing cost pressures
+* **Operating Margins:** Rose to **30% in Q3 2024**, then dropped to **22% in Q4** - showing cost pressures
   
 * **Viewership Patterns:** Q4 consistently records the highest viewership and revenue since 2020
 
