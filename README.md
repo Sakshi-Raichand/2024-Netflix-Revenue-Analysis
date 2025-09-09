@@ -66,4 +66,3 @@ It highlights **key trends, data-driven insights, and strategic takeaways** that
 Created by **Sakshi** – passionate about **business analysis, strategy, and data storytelling**.
 
 
-Do you want me to also design a **visual banner (hero image)** for your GitHub repo so it looks more polished when people land on it?
