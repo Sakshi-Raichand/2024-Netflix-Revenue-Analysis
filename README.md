@@ -54,7 +54,7 @@ It highlights **key trends, data-driven insights, and strategic takeaways** that
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/netflix-2024-financial-analysis.git
+   git clone https://github.com/Sakshi-Raichand/netflix-2024-financial-analysis.git
    ```
 2. Explore the **presentation** for visuals and insights.
 3. Read the **report** for deeper context and recommendations.
